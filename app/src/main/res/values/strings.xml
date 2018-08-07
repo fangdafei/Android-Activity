@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity生命周期</string>
+
+
+    <!--//顺传值-->
+    <string name="activity1key">Activity生命周期第一页</string>
+
+
+    <string name="push1">跳转</string>
+
+    <!--反向传值的key-->
+    <string name="threekey">three</string>
+
+    <!--发送广播-->
+    <string name="pushrecever">发送广播</string>
+
+    <!--发送广播内容-->
+    <string name="messagekey">key</string>
+
+</resources>
